@@ -1,4 +1,4 @@
-```markdown
+
 # Bankist - The Minimal Banking Experience
 
 Welcome to **Bankist**, your go-to minimal banking experience! Our sleek and interactive UI is designed to make your financial journey as smooth as possible. Dive into the features that will make you fall in love with banking all over again.
@@ -35,4 +35,4 @@ Behind the scenes, JavaScript is doing all the heavy lifting. From event listene
 ## Experience Bankist
 
 So, what are you waiting for? Dive into the most minimal and delightful banking experience you'll ever have. And remember, banking doesn’t have to be boring – it can be **Bankist**!
-```
+
